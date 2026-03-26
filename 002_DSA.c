@@ -24,7 +24,7 @@ int main(){
             min = a[i];
         }
     }
-  printf("\n\nMAXIMUM NUMBER IS: %d", max);
-    printf("\n\nMINIMUM NUMBER IS: %d", min);
+  printf("\n\nMAXIMUM NUMBER IS::%d", max);
+    printf("\n\nMINIMUM NUMBER IS:: %d", min);
     return 0;
 }
